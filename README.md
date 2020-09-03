@@ -23,3 +23,5 @@ Use of [ATSPy](https://github.com/firmai/atspy), a library to automate time seri
 3. Identifies and makes accessible the best model for your time series using in-sample validation methods.  
 4. Combines the predictions of all these models in a simple (average) and complex (GBM) ensembles for improved performance.
 5. Where appropriate models have been developed to use GPU resources to speed up the automation process.
+
+A blog post on Atspy : https://analyticsindiamag.com/hands-on-guide-to-atspy-for-automating-the-time-series-forecasting/
